@@ -18,3 +18,4 @@ class Node
     }
 };
 
+class BinaryTree
