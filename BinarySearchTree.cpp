@@ -19,3 +19,7 @@ class Node
 };
 
 class BinaryTree
+{
+    Node* ROOT;
+
+    
